@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 48
+  controlID: 24
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 49
+  controlID: 55
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -374,7 +374,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -387,18 +387,18 @@ MonoBehaviour:
       y: 21
       width: 1021
       height: 250
-    m_Scale: {x: 0.25271842, y: 0.25271842}
-    m_Translation: {x: 510.5, y: 113.53205}
+    m_Scale: {x: 0.23148148, y: 0.23148148}
+    m_Translation: {x: 510.50003, y: 125}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -2020.0348
-      y: -449.2433
-      width: 4040.0696
-      height: 989.2433
+      x: -2205.36
+      y: -540
+      width: 4410.72
+      height: 1080
     m_MinimalGUI: 1
   m_defaultScale: 0.23148148
   m_LastWindowPixelSize: {x: 1021, y: 271}
@@ -1029,9 +1029,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 5.6855702, y: 10.115325, z: 4.710929}
+    m_Target: {x: -17.832714, y: 7.9234257, z: 4.5463977}
     speed: 2
-    m_Value: {x: 5.6855702, y: 10.115325, z: 4.710929}
+    m_Value: {x: -17.832714, y: 7.9234257, z: 4.5463977}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1081,9 +1081,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 24.413015
+    m_Target: 40.865753
     speed: 2
-    m_Value: 24.413015
+    m_Value: 40.865753
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1227,7 +1227,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ba59ffff9ea2ffffe8f0ffffdefaffff46b40000
+      m_ExpandedIDs: defaffff06b60000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1299,7 +1299,8 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/PolyMeshWorld/2D SideScroller Pixel Art Kit Free/TileMap/Sprites
+    - Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update
+      1.7 )/png/1920x1080/Background
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1309,16 +1310,17 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/PolyMeshWorld/2D SideScroller Pixel Art Kit Free/TileMap/Sprites
+  - Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update
+    1.7 )/png/1920x1080/Background
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Mantis\229E-Project-gravity-JumpyJumpy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 123}
-    m_SelectedIDs: a0b60000
-    m_LastClickedID: 46752
-    m_ExpandedIDs: 00000000a0b60000a2b60000a4b60000a6b60000a8b60000aab60000acb60000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f6c50000
+    m_LastClickedID: 50678
+    m_ExpandedIDs: 00000000beb60000c0b60000c2b60000c4b60000c6b60000c8b60000cab60000ccb60000ceb60000d0b60000d2b60000d4b60000d6b60000d8b60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1347,7 +1349,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a0b60000a2b60000a4b60000a6b60000a8b60000aab60000acb60000
+    m_ExpandedIDs: 00000000beb60000c0b60000c2b60000c4b60000c6b60000c8b60000cab60000ccb60000ceb60000d0b60000d2b60000d4b60000d6b60000d8b60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1376,7 +1378,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 20ee0000becf0000dab10000
+    m_ExpandedInstanceIDs: 20ee0000becf0000dab1000052c90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1401,7 +1403,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 104}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 227
