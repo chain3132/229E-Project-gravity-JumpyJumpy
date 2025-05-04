@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class AudioManager : MonoBehaviour
@@ -13,5 +14,9 @@ public class AudioManager : MonoBehaviour
    public AudioClip hit;
    public AudioClip pickup;
    public AudioClip unlock;
-   
+
+   private void Awake()
+   {
+      DontDestroyOnLoad(gameObject);
+   }
 }
